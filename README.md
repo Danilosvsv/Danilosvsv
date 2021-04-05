@@ -4,7 +4,7 @@ Qualquer coisa, só entrar em contato!
 
 - 🌱 Atualmente estou aprendendo a trabalhar com dados: análise de dados, visualização de dados, aprendizado de máquina, entre outros.
 - 👯 Estou procurando colaborar em projetos de visualização de dados animadas/iterativas na linguagem Python, via networking.
-- 📫 Como entrar em contato comigo: danilosantosvieir2@gmail.com (E-mail), [Linkedin](https://www.linkedin.com/in/danilo-santos-21a6421b0/)
+- 📫 Como entrar em contato comigo: [E-mail] danilosantosvieir2@gmail.com / [Linkedin: ](https://www.linkedin.com/in/danilo-santos-21a6421b0/)
 
 <!--
 **Danilosvsv/Danilosvsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
