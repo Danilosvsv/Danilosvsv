@@ -1,4 +1,4 @@
-Meu nome é Danilo, atualmente estou concluindo o Bacharelado em Matemática Computacional. Nesse repositório, você encontrará alguns projetos que desenvolvi durante a jornada da graduação como também projetos próprios relacionados a Ciência de Dados ou Pesquisa Operacional.
+Meu nome é Danilo, atualmente estou concluindo o Bacharelado em Matemática Computacional. Nesse repositório, você encontrará alguns projetos que desenvolvi durante a graduação como também projetos próprios relacionados a Ciência de Dados ou Pesquisa Operacional.
 
 Qualquer coisa, só entrar em contato!
 
