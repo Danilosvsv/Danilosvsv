@@ -1,8 +1,8 @@
-Meu nome é Danilo, atualmente estou concluindo o Bacharelado em Matemática Computacional. Nesse repositório, você encontrará alguns projetos que desenvolvi durante a graduação como também projetos próprios relacionados a Ciência de Dados ou Pesquisa Operacional.
+Meu nome é Danilo, sou bacharel em Matemática Computacional. Nesse repositório, você encontrará alguns projetos que desenvolvi durante a graduação como também projetos próprios relacionados a Ciência de Dados ou Pesquisa Operacional.
 
 Qualquer coisa, só entrar em contato!
 
-- 🌱 Atualmente estou aprendendo a trabalhar com dados: análise de dados, visualização de dados, aprendizado de máquina, entre outros.
+- 🌱 Atualmente estou aprendendo a trabalhar com dados: web scraping, análise de dados, visualização de dados, aprendizado de máquina, compreensão de problemas de negócio, entre outros.
 - 👯 Estou procurando colaborar em projetos de visualização de dados animadas/iterativas na linguagem Python, via networking.
 - 📫 Como entrar em contato comigo: [E-mail] danilosantosvieir2@gmail.com ou via [Linkedin](https://www.linkedin.com/in/danilo-santos-21a6421b0/)
 
