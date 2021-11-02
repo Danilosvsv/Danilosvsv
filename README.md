@@ -1,6 +1,6 @@
 Meu nome é Danilo, sou bacharel em Matemática Computacional. Nesse repositório, você encontrará alguns projetos que desenvolvi durante a graduação como também projetos próprios relacionados a Ciência de Dados ou Pesquisa Operacional.
 
-Qualquer coisa, só entrar em contato!
+Qualquer dúvida ou questionamento, só entrar em contato!
 
 - 🌱 Atualmente estou aprendendo a trabalhar com dados: web scraping, análise de dados, visualização de dados, aprendizado de máquina, compreensão de problemas de negócio, entre outros.
 - 👯 Estou procurando colaborar em projetos de visualização de dados animadas/iterativas na linguagem Python, via networking.
