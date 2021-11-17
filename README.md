@@ -6,6 +6,7 @@ Qualquer dúvida ou questionamento, só entrar em contato!
 - 👯 Estou procurando colaborar em projetos de visualização de dados animadas/iterativas na linguagem Python, via networking.
 - 📫 Como entrar em contato comigo: [E-mail] danilosantosvieir2@gmail.com ou via [Linkedin](https://www.linkedin.com/in/danilo-santos-21a6421b0/)
 
+![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilosvsv&hide=contribs,prs)
 <!--
 **Danilosvsv/Danilosvsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
