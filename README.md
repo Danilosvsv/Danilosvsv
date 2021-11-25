@@ -8,43 +8,33 @@ Qualquer dúvida ou questionamento, só entrar em contato!
 
 Quer conhecer um pouco os projetos que desenvolvi e em quais temas? 
 
-- Dashboards
-
-Dashboard financeiro com dados de cartão crédito utilizando PowerBI
+- Dashboard financeiro com dados de cartão crédito utilizando PowerBI
 
 [Em breve]
 
-Tema 2
-
-[Em breve]
-
-- Modelos de classificação
-
-
-Modelo de IA para Concessão de Crédito - Desafio 1 Maratona Behind The Code
+- Modelo de IA para Concessão de Crédito - Desafio 1 Maratona Behind The Code
 
 https://github.com/Danilosvsv/Maratona_BehindTheCode
 
-Classificador de Match de Currículos com vagas utilizando NLTK Python
+- Classificador de Match de Currículos com vagas utilizando NLTK Python
 
 [Em breve]
 
-Tema 2
+- Tema 2
 
 [Em breve]
 
-Modelo para Previsao de Fraudes em Cartão de Crédito
+- Modelo para Previsao de Fraudes em Cartão de Crédito
 
 [Em breve]
 
-- Processamento de Linguagem Natural
-
-Análise de Sentimentos
+- Análise de Sentimentos e Processamento de Linguagem Natural
 
 [Em breve]
 
 - Sistemas de Recomendação
 
+[Em breve]
 
 
 ![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilosvsv&show_icons=true&theme=radical)
