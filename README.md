@@ -6,6 +6,46 @@ Qualquer dúvida ou questionamento, só entrar em contato!
 - 👯 Estou procurando colaborar em projetos de visualização de dados animadas/iterativas na linguagem Python, via networking.
 - 📫 Como entrar em contato comigo: [E-mail] danilosantosvieir2@gmail.com ou via [Linkedin](https://www.linkedin.com/in/danilo-santos-21a6421b0/)
 
+Quer conhecer um pouco os projetos que desenvolvi e em quais temas? 
+
+- Dashboards
+
+Dashboard financeiro com dados de cartão crédito utilizando PowerBI
+
+[Em breve]
+
+Tema 2
+
+[Em breve]
+
+- Modelos de classificação
+
+
+Modelo de IA para Concessão de Crédito - Desafio 1 Maratona Behind The Code
+
+https://github.com/Danilosvsv/Maratona_BehindTheCode
+
+Classificador de Match de Currículos com vagas utilizando NLTK Python
+
+[Em breve]
+
+Tema 2
+
+[Em breve]
+
+Modelo para Previsao de Fraudes em Cartão de Crédito
+
+[Em breve]
+
+- Processamento de Linguagem Natural
+
+Análise de Sentimentos
+
+[Em breve]
+
+- Sistemas de Recomendação
+
+
 
 ![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilosvsv&show_icons=true&theme=radical)
 
