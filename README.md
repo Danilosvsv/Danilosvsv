@@ -31,10 +31,6 @@ https://github.com/Danilosvsv/Maratona_BehindTheCode
 
 [Em breve]
 
-- Sistemas de Recomendação
-
-[Em breve]
-
 
 ![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilosvsv&show_icons=true&theme=radical)
 
