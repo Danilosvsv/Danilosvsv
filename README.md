@@ -6,7 +6,7 @@ Olá, meu nome é Danilo Santos. Nessa apresentação, você encontrará a descr
 
 Quer conhecer um pouco os projetos que desenvolvi e em quais temas? 
 
-- Modelo de IA para classificação de presença de ligação química do Európio com Oxigênio e/ou Nitrôgenio
+- Modelo de IA para classificação de presença de ligação química do Európio com Oxigênio e/ou Nitrogênio.
 
 https://github.com/Danilosvsv/ChemicalBond_classification
 
