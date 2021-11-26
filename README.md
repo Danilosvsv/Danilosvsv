@@ -6,7 +6,7 @@ Olá, meu nome é Danilo Santos. Nessa apresentação, você encontrará a descr
 
 Quer conhecer um pouco os projetos que desenvolvi e em quais temas? 
 
-- Modelo de IA para classificação taxa de presença de ligação química do Európio com Oxigênio e/ou Nitrôgenio
+- Modelo de IA para classificação de presença de ligação química do Európio com Oxigênio e/ou Nitrôgenio
 
 https://github.com/Danilosvsv/ChemicalBond_classification
 
@@ -22,7 +22,9 @@ https://github.com/Danilosvsv/CloudWords_Curriculum
 
 [Em desenvolvimento]
 
-- Análise de Sentimentos em posts do Twitter e Processamento de Linguagem Natural [Em desenvolvimento]
+- Análise de Sentimentos em posts do Twitter e Processamento de Linguagem Natural 
+
+[Em desenvolvimento]
 
 https://github.com/Danilosvsv/Twitter_SentimentAnalysis
 
