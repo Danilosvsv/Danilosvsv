@@ -27,9 +27,9 @@ https://github.com/Danilosvsv/Maratona_BehindTheCode
 
 [Em breve]
 
-- Análise de Sentimentos e Processamento de Linguagem Natural
+- Análise de Sentimentos em posts do Twitter e Processamento de Linguagem Natural
 
-[Em breve]
+https://github.com/Danilosvsv/Twitter_SentimentAnalysis
 
 
 ![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilosvsv&show_icons=true&theme=radical)
