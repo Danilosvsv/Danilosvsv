@@ -20,7 +20,7 @@ https://github.com/Danilosvsv/CloudWords_Curriculum
 
 - Prevendo preço das ações da CVCB3
 
-https://github.com/Danilosvsv/Preditor_B3/blob/main/README.md
+[Em desenvolvimento]
 
 - Análise de Sentimentos em posts do Twitter e Processamento de Linguagem Natural [Em desenvolvimento]
 
