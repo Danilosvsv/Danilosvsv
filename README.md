@@ -14,9 +14,9 @@ https://github.com/Danilosvsv/ChemicalBond_classification
 
 https://github.com/Danilosvsv/Maratona_BehindTheCode
 
-- Classificador de Match de Currículos com vagas
+- Criando Nuvem de Palavras para modelos de currículo
 
-https://github.com/Danilosvsv/Classificador_Curriculos
+https://github.com/Danilosvsv/CloudWords_Curriculum
 
 - Prevendo preço das ações da CVCB3
 
