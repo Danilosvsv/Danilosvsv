@@ -1,7 +1,5 @@
 Olá, meu nome é Danilo Santos. Nessa apresentação, você encontrará a descrição geral dos projetos acadêmicos ou próprios relacionados a Ciência de Dados.
 
-- 🌱 Atualmente estou aprendendo a trabalhar com técnicas de análise e ciência de dados.
-- 👯 Estou procurando colaborar em projetos de visualização de dados animadas/iterativas na linguagem Python, via networking.
 - 📫 Você pode entrar em contato comigo através das seguintes redes: [E-mail] danilosantosvieir2@gmail.com ou via [Linkedin](https://www.linkedin.com/in/danilo-santos-21a6421b0/)
 
 Quer conhecer um pouco os projetos que desenvolvi e em quais temas? 
