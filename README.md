@@ -1,30 +1,20 @@
-Olá, meu nome é Danilo Santos. Nessa apresentação, você encontrará a descrição geral dos projetos acadêmicos ou próprios relacionados a Ciência de Dados.
+Hello, my name is Danilo Santos. In this presentation, you will find a general description of the academic or own projects related to Data Science.
 
-- 📫 Você pode entrar em contato comigo através das seguintes redes: [E-mail] danilosantosvieir2@gmail.com ou via [Linkedin](https://www.linkedin.com/in/danilo-santos-21a6421b0/)
+- 📫 You can contact me through the following networks: [E-mail] danilosantosvieir2@gmail.com ou via [Linkedin](https://www.linkedin.com/in/danilo-santos-21a6421b0/)
 
-Quer conhecer um pouco os projetos que desenvolvi e em quais temas? 
+Do you want to know a little about the projects you develop and on which themes?
 
-- Modelo de IA para classificação de presença de ligação química do Európio com Oxigênio e/ou Nitrogênio.
+- Classification model for the presence of a chemical bond between Europium and Oxygen and/or Nitrogen (Graduation course completion work).
 
 https://github.com/Danilosvsv/ChemicalBond_classification
 
-- Modelo de IA para Concessão de Crédito - Desafio 1 Maratona Behind The Code
+- AI Model for Credit Granting - Challenge 1 Behind The Code Marathon
 
 https://github.com/Danilosvsv/Maratona_BehindTheCode
 
-- Criando Nuvem de Palavras para modelos de currículo
+- Creating Word Cloud for CV Templates
 
 https://github.com/Danilosvsv/CloudWords_Curriculum
-
-- Prevendo preço das ações da CVCB3
-
-[Em desenvolvimento]
-
-- Análise de Sentimentos em posts do Twitter e Processamento de Linguagem Natural 
-
-[Em desenvolvimento]
-
-https://github.com/Danilosvsv/Twitter_SentimentAnalysis
 
 
 ![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilosvsv&show_icons=true&theme=radical)
